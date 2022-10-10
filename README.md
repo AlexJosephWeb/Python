@@ -44,8 +44,20 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea — let’s do more of those!
 ***
 
+7. Use the Right Data Structures
+8. Write Readable Code
+9. Use Virtual Environments
+10. Write Object-Oriented Code
+11. What Not to Do while Programming in Python
 
-### Coding
+### Interview questions
+
+1. Python Interview Questions on Best Practices for Python Coding
+2. What is the use of PyPI?
+3. What is the best way to write Variables in Python?
+4. Why writing Readable code is Important?
+5. What are some of the things you should avoid while Programming in Python?
+6. Why should you create a separate virtual environment for every project?
 
 ## References
 
