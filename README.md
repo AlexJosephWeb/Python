@@ -8,6 +8,14 @@ Often, programmers fall in love with Python because of the increased productivit
 
 1. Create a Code Repository and Implement Version Control
 2. Create Readable Documentation
+3. Follow Style Guidelines
+- Use proper naming conventions for variables, functions, methods, and more.
+- Variables, functions, methods, packages, modules: this_is_a_variable
+- Classes and exceptions: CapWords
+- Protected methods and internal functions: _single_leading_underscore
+- Private methods: __double_leading_underscore
+- Constants: CAPS_WITH_UNDERSCORES
+- Use 4 spaces for indentation. For more conventions, refer to PEP8. 
 
 
 
