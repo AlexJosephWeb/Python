@@ -63,4 +63,5 @@ Namespaces are one honking great idea — let’s do more of those!
 
 - https://www.python.org/
 - https://docs.python.org/3/library/
+- https://www.mygreatlearning.com/blog/open-source-python-libraries/
 - https://data-flair.training/blogs/python-best-practices/
