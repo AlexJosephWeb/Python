@@ -50,6 +50,23 @@ Namespaces are one honking great idea — let’s do more of those!
 10. Write Object-Oriented Code
 11. What Not to Do while Programming in Python
 
+## Code examples
+
+- Pandas
+- Django
+- Matplotlib
+- Plotly
+- Bokeh
+- NumPy
+- Pillow
+- Requests
+- Scrapy
+- BeautifulSoup
+- PyTesseract
+- Tkinter
+- Pygame
+- Kivy
+
 ### Interview questions
 
 1. Python Interview Questions on Best Practices for Python Coding
